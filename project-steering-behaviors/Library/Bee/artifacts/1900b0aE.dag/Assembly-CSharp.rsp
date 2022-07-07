@@ -343,6 +343,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/SeekAndFlee.cs"
+"Assets/Scripts/StartSpawner.cs"
+"Assets/Scripts/Wander.cs"
 -langversion:8.0
 
 /deterministic
